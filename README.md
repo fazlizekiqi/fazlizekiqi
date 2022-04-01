@@ -25,4 +25,4 @@ As part of my work at Cepheid, I like to explore different technologies. I mostl
 
 ## Projects
 
-[![elasticsearch-springboot-tutorial](https://github.com/fazlizekiqi/elasticsearch-springboot)](https://github.com/fazlizekiqi/elasticsearch-springboot)
+[![elasticsearch-springboot-tutorial](https://github.com/fazlizekiqi/elasticsearch-springboot/blob/master/README.md)](https://github.com/fazlizekiqi/elasticsearch-springboot)
