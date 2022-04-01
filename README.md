@@ -25,4 +25,4 @@ As part of my work at Cepheid, I like to explore different technologies. I mostl
 
 ## Projects
 
-[![ipywidgets](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&theme=dark&show_owner=true)](https://github.com/jupyter-widgets/ipywidgets)
+[![elasticsearch-springboot-tutorial](https://github.com/fazlizekiqi/elasticsearch-springboot)](https://github.com/fazlizekiqi/elasticsearch-springboot)
