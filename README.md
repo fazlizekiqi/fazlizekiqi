@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Martin Renou, Scientific Software Engineer
-
 [![Instagram Badge](https://img.shields.io/instagram/follow/fazlizekiqi?style=flat-square&logo=Instagram&logoColor=white&color=cornflowerblue)](https://www.instagram.com/fazlizeka)
