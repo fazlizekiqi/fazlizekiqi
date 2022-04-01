@@ -16,4 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Instagram Badge](https://img.shields.io/instagram/follow/fazlizekiqi?style=flat-square&logo=Instagram&logoColor=white&color=cornflowerblue)](https://www.instagram.com/fazlizeka)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=cornflowerblue)](https://www.linkedin.com/in/fazli-zekiqi-670823141)
+[![Medium Badge](https://img.shields.io/badge/Medium-blue?style=flat-square&logo=Medium&logoColor=white&color=cornflowerblue)](https://medium.com/@fazlizekiqi)
+
+I work at [Cepheid](https://www.cepheid.com/) (Stockholm, Sweden) as a Software Engineer. Worked at [Expleo](https://expleo.com/global/en/) (Stockholm, Sweden). Studied java development at [Nackademin](https://nackademin.se/).
+
+As part of my work at Cepheid, I like to explore different technologies. I mostly do Java, Javascript, TypeScript  (order of preference).
+
+## Projects
+
+[![ipywidgets](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&theme=dark&show_owner=true)](https://github.com/jupyter-widgets/ipywidgets)
