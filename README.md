@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I work at [Cepheid](https://www.cepheid.com/) (Stockholm, Sweden) as a Software Engineer. Worked at [Expleo](https://expleo.com/global/en/) (Stockholm, Sweden). Studied java development at [Nackademin](https://nackademin.se/).
 
-As part of my work at Cepheid, I like to explore different technologies. I mostly do Java, Javascript, TypeScript  (order of preference).
+As part of my work at Cepheid, I like to explore different technologies. I mostly do Java, Javascript, TypeScript and at times i try to learn more about OpenGL (order of preference).
 
 ## Projects
 
