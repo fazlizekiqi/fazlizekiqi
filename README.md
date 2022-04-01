@@ -25,4 +25,4 @@ As part of my work at Cepheid, I like to explore different technologies. I mostl
 
 ## Projects
 
-[![Repositories](https://github.com/fazlizekiqi?tab=repositories)](https://github.com/fazlizekiqi?tab=repositories)
+[![Repositories]](https://github.com/fazlizekiqi?tab=repositories)
