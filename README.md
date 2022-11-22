@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fazli Zekiqi - Software engineer -* 🌍  I'm based in Stockholm * ✉️  You can contact me at [fazlizekiqi1@hotmail.com](mailto:fazlizekiqi1@hotmail.com)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fazli Zekiqi - Software engineer -* 🌍  I'm currently based in Stockholm * ✉️  You can contact me at [fazlizekiqi1@hotmail.com](mailto:fazlizekiqi1@hotmail.com)
 
 ### Skills  
 
