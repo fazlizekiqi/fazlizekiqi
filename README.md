@@ -12,7 +12,7 @@ I build software with a focus on clean, practical, and maintainable solutions.
 
 ### 🛠️ Technologies
 
-Java · Kotlin · JavaScript · TypeScript · React · Angular · Node.js · HTML · CSS · Sass · Redux · MySQL · PostgreSQL · MongoDB · Firebase
+Java · Spring Boot · Kafka · GCP · K8s · OpenShift · Angular · Electron ·  JavaScript · TypeScript · React · Angular · Node.js · HTML · CSS · Sass · Redux · MySQL · PostgreSQL · MongoDB · Firebase
 
 ### 🔗 Find Me Online
 
